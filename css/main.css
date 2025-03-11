@@ -1,0 +1,20 @@
+p{
+    color: red ;
+    text-align: justify;      /*окончание ровным делает*/
+    font-weight: bold;       /* жирный текст */
+}
+h1{
+    color: #30019f;
+    text-align: center;   /* текст ставит по центру */
+    font-size: 30px;        /*текст ставноваиться на 30 пикселей меньше*/
+}
+h2{
+    color: rgb(255, 105, 180);
+    text-align: right;    /* текст ставит справа*/
+}
+span{
+    font-weight:  bold; /*жирный шрифт*/
+}
+div{
+    font-style: italic;    /*красивый шрифт*/
+}
